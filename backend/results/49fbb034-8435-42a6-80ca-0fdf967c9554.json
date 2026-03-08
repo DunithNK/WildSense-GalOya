@@ -1,0 +1,64 @@
+{
+  "report": {
+    "tsi": 0.0643,
+    "health_status": "Mild Stress",
+    "leopard_mean_temp": 29.61,
+    "background_mean_temp": 31.65,
+    "regions": [
+      {
+        "name": "head",
+        "mean_temp": 28.59,
+        "min_temp": 22.06,
+        "max_temp": 42.16,
+        "std_temp": 3.7
+      },
+      {
+        "name": "torso",
+        "mean_temp": 32.05,
+        "min_temp": 20.2,
+        "max_temp": 45.0,
+        "std_temp": 6.0
+      },
+      {
+        "name": "left_limb",
+        "mean_temp": 28.89,
+        "min_temp": 22.94,
+        "max_temp": 44.02,
+        "std_temp": 3.9
+      },
+      {
+        "name": "right_limb",
+        "mean_temp": 28.58,
+        "min_temp": 20.78,
+        "max_temp": 42.75,
+        "std_temp": 3.83
+      },
+      {
+        "name": "ocular",
+        "mean_temp": 29.81,
+        "min_temp": 22.84,
+        "max_temp": 41.96,
+        "std_temp": 4.06
+      }
+    ],
+    "bilateral_asymmetry": {
+      "limbs": 0.31
+    },
+    "anomalies": [
+      "Low temperature in head: 28.6\u00b0C (normal: 36.0-38.5\u00b0C)",
+      "Low temperature in torso: 32.1\u00b0C (normal: 35.5-37.8\u00b0C)"
+    ],
+    "recommendations": [
+      "Mild physiological stress detected",
+      "Monitor for 24-48 hours before release",
+      "Ensure adequate hydration and nutrition",
+      "Check for circulation issues or hypothermia"
+    ],
+    "confidence": 0.97,
+    "release_recommended": true,
+    "analysis_id": "49fbb034-8435-42a6-80ca-0fdf967c9554",
+    "timestamp": "2026-03-07T09:05:01.783022",
+    "image_path": "uploads\\49fbb034-8435-42a6-80ca-0fdf967c9554.jpg"
+  },
+  "detections": []
+}

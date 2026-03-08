@@ -1,0 +1,33 @@
+{
+  "report": {
+    "tsi": 0.0656,
+    "health_status": "Mild Stress",
+    "leopard_mean_temp": 30.27,
+    "background_mean_temp": 28.4,
+    "regions": [
+      {
+        "name": "head",
+        "mean_temp": 28.66,
+        "min_temp": 23.33,
+        "max_temp": 40.59,
+        "std_temp": 2.42
+      }
+    ],
+    "bilateral_asymmetry": {},
+    "anomalies": [
+      "Low temperature in head: 28.7\u00b0C (normal: 36.0-38.5\u00b0C)"
+    ],
+    "recommendations": [
+      "Mild physiological stress detected",
+      "Monitor for 24-48 hours before release",
+      "Ensure adequate hydration and nutrition",
+      "Check for circulation issues or hypothermia"
+    ],
+    "confidence": 0.96,
+    "release_recommended": true,
+    "analysis_id": "84e23d4a-b74d-4c1b-bd31-7d1a18b7c609",
+    "timestamp": "2026-03-07T17:44:24.274730",
+    "image_path": "uploads\\84e23d4a-b74d-4c1b-bd31-7d1a18b7c609.jpg"
+  },
+  "detections": []
+}

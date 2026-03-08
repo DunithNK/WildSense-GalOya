@@ -1,0 +1,34 @@
+{
+  "report": {
+    "tsi": 0.1677,
+    "health_status": "Critical Stress",
+    "leopard_mean_temp": 34.84,
+    "background_mean_temp": 29.84,
+    "regions": [
+      {
+        "name": "head",
+        "mean_temp": 30.64,
+        "min_temp": 20.49,
+        "max_temp": 44.61,
+        "std_temp": 6.91
+      }
+    ],
+    "bilateral_asymmetry": {},
+    "anomalies": [
+      "Low temperature in head: 30.6\u00b0C (normal: 36.0-38.5\u00b0C)"
+    ],
+    "recommendations": [
+      "Critical stress levels - DO NOT RELEASE",
+      "Immediate veterinary intervention required",
+      "Conduct comprehensive health assessment",
+      "Extended rehabilitation period recommended",
+      "Check for circulation issues or hypothermia"
+    ],
+    "confidence": 1.0,
+    "release_recommended": false,
+    "analysis_id": "4f625293-ee35-4a02-a00a-6d22dceca1af",
+    "timestamp": "2026-03-08T22:31:16.129494",
+    "image_path": "uploads\\4f625293-ee35-4a02-a00a-6d22dceca1af.jpg"
+  },
+  "detections": []
+}
